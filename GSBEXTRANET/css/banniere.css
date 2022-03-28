@@ -1,0 +1,28 @@
+.banniere{
+ border:solid 2px white;
+
+ width: 100%;
+ position: fixed;
+ bottom: 0;
+ left:0;
+ display: flex;
+ justify-content: space-around;
+ padding:30px;
+
+ background:black;
+
+}
+.text-banniere{
+    font-size: large;
+    color:red;
+}
+.button-banniere a{
+    border: solid 1px;
+    padding:10px;
+    background: red;
+    border-radius:7px;
+    color:white;
+    text-decoration: none;
+  
+}
+
